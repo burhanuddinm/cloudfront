@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-headers",
+  "version": "1.0.0",
+  "description": "This application will give the headers in response only and just for personal testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanuddinm/cloudfront/nodejs-headers.git"
+  },
+  "keywords": [
+    "nodejs",
+    "print",
+    "headers"
+  ],
+  "author": "Burhanuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burhanuddinm/cloudfront/nodejs-headers/issues"
+  },
+  "homepage": "https://github.com/burhanuddinm/cloudfront/nodejs-headers#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
